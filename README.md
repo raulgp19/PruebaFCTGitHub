@@ -1,3 +1,3 @@
 # PruebaFCTGitHub
 
-##Este es un proyecto de Prueba de GitHub
+Este es un proyecto de Prueba de GitHub
